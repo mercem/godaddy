@@ -1,0 +1,15 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  height: 100%;
+}
+
+.repo-list-header {
+  font-size: 20px;
+  margin-bottom: 20px;
+  color: #fff;
+  font-weight: bold;
+}

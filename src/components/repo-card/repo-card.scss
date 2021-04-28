@@ -1,0 +1,13 @@
+.field-container {
+  display: flex;
+  margin-bottom: 10px;
+
+  .field-name {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+
+  .field-data {
+    font-style: italic;
+  }
+}
